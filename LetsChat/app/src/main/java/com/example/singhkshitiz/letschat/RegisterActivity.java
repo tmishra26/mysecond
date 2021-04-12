@@ -83,8 +83,6 @@ public class RegisterActivity extends AppCompatActivity {
             register_user(displayname,email,password);
         }
     }
-
-
     //-----REGISTERING THE NEW USER------
     private void register_user(final String displayname, String email, String password) {
 
@@ -101,7 +99,7 @@ public class RegisterActivity extends AppCompatActivity {
                     Map userMap=new HashMap();
                     userMap.put("device_token",token_id);
                     userMap.put("name",displayname);
-                    userMap.put("status","Hello Kshitiz");
+                    userMap.put("status","Hello Man");
                     userMap.put("image","default");
                     userMap.put("thumb_image","default");
                     userMap.put("online","true");

@@ -7,6 +7,7 @@ import android.net.Uri;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
@@ -157,6 +158,7 @@ public class SettingActivity extends AppCompatActivity {
         if(requestCode == GALLERY_PICK && resultCode == RESULT_OK){
 
             Uri sourceUri = data.getData();
+            Log.d("TAG", "onActivityResult: "+sourceUri);
 
             //-------CROPPING IMAGE AND SETTING MINIMUM SIZE TO 500 , 500------
             CropImage.activity(sourceUri).

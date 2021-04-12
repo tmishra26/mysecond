@@ -62,5 +62,6 @@ dependencies {
     //------FIREBASE CLOUD MESSAGING FOR SENDING NOTIFICATION-----
     compile 'com.google.firebase:firebase-messaging:10.0.1'
     testCompile 'junit:junit:4.12'
+
 }
 apply plugin: 'com.google.gms.google-services'

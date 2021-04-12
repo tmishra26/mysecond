@@ -1,52 +1,45 @@
 {
   "project_info": {
-    "project_number": "129551577682",
-    "firebase_url": "https://letschat-dad54.firebaseio.com",
-    "project_id": "letschat-dad54",
-    "storage_bucket": "letschat-dad54.appspot.com"
+    "project_number": "500008114423",
+    "project_id": "letschat-1fd4c",
+    "firebase_url": "https://letschat-1fd4c-default-rtdb.firebaseio.com/",
+    "storage_bucket": "letschat-1fd4c.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:129551577682:android:80a888d376a37daf",
+        "mobilesdk_app_id": "1:500008114423:android:e25c7dad5d2ad065b3dbf2",
         "android_client_info": {
           "package_name": "com.example.singhkshitiz.letschat"
         }
       },
       "oauth_client": [
         {
-          "client_id": "129551577682-d485mb8jf9n55btqlfj61btpde3ldb51.apps.googleusercontent.com",
+          "client_id": "500008114423-8ue79hgio24d7cl7usu2tc2ea5j92uhr.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.singhkshitiz.letschat",
-            "certificate_hash": "7c66a02f33e2f1e917a1d897551bacbf45fd1c87"
+            "certificate_hash": "a9410ea3d8fa125aa9bf3db211544665a38cf420"
           }
         },
         {
-          "client_id": "129551577682-vl5808n4ihdlit34q6ec4g7s844ln9b3.apps.googleusercontent.com",
+          "client_id": "500008114423-8ljpjgldpvvomf6ioco7dm9rtrm0drg3.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBqtOOsyktExhHtJEmpUsG8sE1t_B7fJOQ"
+          "current_key": "AIzaSyD0toyUuVTMpRvWWZ7meuDEH0W5dPleY4w"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "129551577682-vl5808n4ihdlit34q6ec4g7s844ln9b3.apps.googleusercontent.com",
+              "client_id": "500008114423-8ljpjgldpvvomf6ioco7dm9rtrm0drg3.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
-        },
-        "ads_service": {
-          "status": 2
         }
       }
     }

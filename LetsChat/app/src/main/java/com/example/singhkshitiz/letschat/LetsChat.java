@@ -40,7 +40,7 @@ public class LetsChat extends Application{
         if(mUser!=null){
 
             //---FIREBASE OFFLINE FEATURE---
-            FirebaseDatabase.getInstance().setPersistenceEnabled(true);
+         //   FirebaseDatabase.getInstance().setPersistenceEnabled(true);
 
             // ---PIACSSO OFFLINE FEATURE--
             mAuth=FirebaseAuth.getInstance();
