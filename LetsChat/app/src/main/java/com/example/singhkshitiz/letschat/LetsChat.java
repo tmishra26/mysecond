@@ -25,7 +25,8 @@ import com.squareup.picasso.Picasso;
 public class LetsChat extends Application{
 
     private DatabaseReference mUserDatabase;
-    private FirebaseAuth mAuth;
+    private FirebaseAuth
+            mAuth;
 
 
     @Override
